@@ -6,9 +6,9 @@
 3. C and C++
 
 ### JavaScript Frameworks
-1. 
-2. 
-3. 
+1. Node.js
+2. AngularJS
+3. Ember. js
 
 ### IDE
 1. 
