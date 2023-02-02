@@ -11,6 +11,6 @@
 3. 
 
 ### IDE
-1. 
-2. 
-3. 
+1. Visual Studio
+2. Spyder
+3. Pycharm
