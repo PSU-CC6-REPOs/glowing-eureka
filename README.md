@@ -6,9 +6,9 @@
 3. 
 
 ### JavaScript Frameworks
-1. 
-2. 
-3. 
+1. Vue.js
+2. Angular
+3. JQuery
 
 ### IDE
 1. Netbeans
