@@ -13,4 +13,4 @@
 ### IDE
 1. NetBeans
 2. PyCharm
-3. Visual Studio Code
+3. Visual Studio
