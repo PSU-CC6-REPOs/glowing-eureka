@@ -8,9 +8,9 @@
 
 ### JavaScript Frameworks
 
-1.
-2.
-3.
+1. React
+2. Vue
+3. Angular
 
 ### IDE
 
