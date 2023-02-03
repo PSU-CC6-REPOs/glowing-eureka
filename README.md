@@ -1,9 +1,9 @@
 # glowing-eureka
 
 ### Programming Languages
-1. Java
+1. Python
 2. C++
-3. Python
+3. Java
 
 ### JavaScript Frameworks
 1. 
