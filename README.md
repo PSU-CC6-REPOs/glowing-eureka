@@ -6,11 +6,11 @@
 3. 
 
 ### JavaScript Frameworks
+1. ANGULARJS
+2. REACT
+3. VUE.JS
+
+### IDE
 1. 
 2. 
 3. 
-
-### IDE
-1. NetBeans
-2. Pycharm
-3. Visual Studio
