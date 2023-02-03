@@ -11,6 +11,6 @@
 3.
 
 ### IDE
-1. 
-2. 
-3. 
+1. Visual Studio
+2. Netbeans
+3. Eclipse
