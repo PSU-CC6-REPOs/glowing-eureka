@@ -6,9 +6,9 @@
 3. 
 
 ### JavaScript Frameworks
-1. 
-2. 
-3. 
+1. jQuery
+2. Bootstrap
+3. CSS
 
 ### IDE
 1. Eclipse
