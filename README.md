@@ -6,11 +6,11 @@
 3. 
 
 ### JavaScript Frameworks
-1. Angular
-2. React
-3. Ember.js
-
-### IDE
 1. 
 2. 
 3. 
+
+### IDE
+1. PyCharm
+2. VS Code
+3. WebStorm
