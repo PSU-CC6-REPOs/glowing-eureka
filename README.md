@@ -2,9 +2,9 @@
 
 ### Programming Languages
 
-1.
-2.
-3.
+1.c#
+2.Java
+3.python
 
 ### JavaScript Frameworks
 
