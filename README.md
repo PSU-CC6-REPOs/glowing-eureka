@@ -3,7 +3,7 @@
 ### Programming Languages
 1. Java
 2. C++
-3. C#
+3. Python
 
 ### JavaScript Frameworks
 1. 
