@@ -6,9 +6,9 @@
 3. 
 
 ### JavaScript Frameworks
-1. 
-2. 
-3. 
+1. Angular
+2. React
+3. Ember.js
 
 ### IDE
 1. 
