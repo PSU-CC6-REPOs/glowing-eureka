@@ -12,8 +12,9 @@
 2.
 3.
 
+
 ### IDE
 
-1. Visual Studio
-2. Android Studio
-3. Intellij
+1. 
+2. 
+3. 
